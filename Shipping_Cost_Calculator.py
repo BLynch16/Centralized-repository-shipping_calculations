@@ -1,4 +1,5 @@
 # Here is a new update by BLynch16
+# Here is another update by BLynch16
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
